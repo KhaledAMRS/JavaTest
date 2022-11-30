@@ -1,6 +1,6 @@
-package P01_what_are_classes;
+package L01_classes_A;
 
-public class classA {
+public class classPublic {
 /*
 What's Class?
 - Class is a template used to create objects and to define object data types and methods.
@@ -30,7 +30,7 @@ same thing with 'class' it should not be 'Class'
 /*
 - What's public and what's other types of Access_Modifiers available for class
   1- Default: the class will be available for any other class in the same package
-     but not available for other packages  >> use import to explain this
+     but not available for other packages
   2- public: declared public can be accessed from any other class.
 
   Note: there might be other Access_Modifiers for class but that's enough for now

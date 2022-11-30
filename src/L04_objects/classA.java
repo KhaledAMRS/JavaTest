@@ -1,6 +1,6 @@
-package P04_how_to_create_objects_from_class;
+package L04_objects;
 
-public class classG {
+public class classA {
     public int sum()
     {
         return 5+4;
